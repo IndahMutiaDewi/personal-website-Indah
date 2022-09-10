@@ -1,0 +1,37 @@
+.profile{
+    background-color: rgb(143, 150, 231);
+}
+
+ .profile-img img{
+    max-width: 10rem;
+}
+
+.portofolio .portofolio-img img{
+    max-height: 220px;
+}
+
+.portofolio .p {
+    height: 32rem;
+}
+
+.ABOUT {
+    background-color: rgb(143, 150, 231);
+}
+
+.btn-download {
+    background-color: slategrey;
+    display: block;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 24px;
+    margin-bottom: 15px;
+}
+
+.btn-download:hover {
+    background-color: blue;
+    border-radius: 24px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 30px;
+}
